@@ -8,7 +8,7 @@ const CONFIG = {
     btnNo: 'Không, bớt mơ lại đi :(',
     question:'Tại sao bạn lại thích mình thế <3',
     btnReply: 'Gửi cho tui nha <3',
-    reply: 'Do mình thấy bạn đẹp trai với lại dễ thương á <33333333',
+    reply: 'Do mình thấy bạn đẹp trai với lại dễ thương á <333',
     mess: 'Mình biết mà, mình thấy bạn đẹp gái với cute nữa đó. Mình thích bạn nhiều lắm <3',
     messDesc: 'Vô ib mình đi nào <3',
     btnAccept: 'Okiiiii lun <3',
