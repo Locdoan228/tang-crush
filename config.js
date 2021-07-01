@@ -12,5 +12,5 @@ const CONFIG = {
     mess: 'Mình biết mà, mình thấy bạn đẹp gái với cute nữa đó. Mình thích bạn nhiều lắm <3',
     messDesc: 'Vô ib mình đi nào <3',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'http://fb.com/locdoan97' 
+    messLink: 'https://m.me/locdoan97' 
 }
